@@ -17,7 +17,7 @@
         "vue-template-compiler": "^2.5.9"
     },
     "dependencies": {
-        "axios": "^0.17.1",
+        "axios": "^0.19.0",
         "lodash": "^4.17.4",
         "plus-message-bundle": "^0.0.5",
         "simkit-bootstrap-ui-kit": "^0.0.3",
